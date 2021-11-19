@@ -22,20 +22,20 @@ public class PersonDTO {
 
     @NotEmpty
     @Size(min = 2, max = 100)
-    private String firstName;
+    private String firstName; //food name
 
     @NotEmpty
     @Size(min = 2, max = 100)
-    private String lastName;
+    private String lastName; // calories
 
     @NotEmpty
     @CPF
-    private String cpf;
+    private String cpf; //proteins
 
     @NotNull
-    private String birthDate;
+    private String birthDate; // carbs
 
     @Valid
     @NotEmpty
-    private List<PhoneDTO> phones;
+    private List<PhoneDTO> phones; // unused
 }

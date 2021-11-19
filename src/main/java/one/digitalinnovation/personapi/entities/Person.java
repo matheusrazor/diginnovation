@@ -29,16 +29,16 @@ public class Person {
     private Long id;
 
     @Column(nullable = false)
-    private String firstName;
+    private String firstName; // food name
 
     @Column(nullable = false)
-    private String lastName;
+    private String lastName; // calories
 
     @Column(nullable = false, unique = true)
-    private String cpf;
+    private String cpf; // proteins
 
-    private LocalDate birthDate;
+    private LocalDate birthDate; // carbs
 
     @OneToMany(fetch = FetchType.LAZY, cascade = {CascadeType.PERSIST, CascadeType.MERGE, CascadeType.REMOVE})
-    private List<Phone> phones = new ArrayList<>();
+    private List<Phone> phones = new ArrayList<>(); // unused
 }
