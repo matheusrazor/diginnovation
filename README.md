@@ -1,7 +1,10 @@
-<h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
+## Digital Innovation: Expert class - Desenvolvendo um sistema de cadastro de comidas e seus valores nutricionais em API REST com Spring Boot
 
-Nesta live coding vamos desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
+Utilizando o projeto proposto pelo bootcamp da Digital Innovation One, desenvolvi um pequeno sistema para o cadastro de comidas e seus valores nutricionais através de uma API REST, criada com o Spring Boot.
 
+---
+### README Original do arquivo
+---
 Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
 
 * Setup inicial de projeto com o Spring Boot Initialzr 
