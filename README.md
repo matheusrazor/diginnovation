@@ -1,9 +1,9 @@
-## Digital Innovation: Expert class - Desenvolvendo um sistema de cadastro de comidas e seus valores nutricionais em API REST com Spring Boot
+## Digital Innovation: Expert class - Desenvolvendo um sistema de cadastro de comidas e seus valores nutricionais em API REST com Spring Boot 🍖 🥗
 
 Utilizando o projeto proposto pelo bootcamp da Digital Innovation One, desenvolvi um pequeno sistema para o cadastro de comidas e seus valores nutricionais através de uma API REST, criada com o Spring Boot.
 
 ---
-### README Original do arquivo
+### README Original do projeto:
 ---
 Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
 
